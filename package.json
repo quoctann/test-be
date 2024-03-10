@@ -1,5 +1,6 @@
 {
   "name": "my-test-deploy-app",
+  "homepage": "https://quoctann.github.io/test-be",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
